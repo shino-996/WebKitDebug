@@ -1,0 +1,9 @@
+Package: space.shino.webkit.debug
+Name: WebKitDebug
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: An awesome MobileSubstrate tweak!
+Maintainer: shino
+Author: shino
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
